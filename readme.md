@@ -1,9 +1,5 @@
-# HTML Gulp Starter
+# Plow – HTML Build System
 
-Универсальный стартовый шаблон для разработки современных веб-проектов. Включает автоматизацию задач с помощью Gulp:
+Plow is an HTML build system that compiles CSS and JavaScript, optimizes images and fonts, and assembles HTML templates into production-ready files. It ensures fast loading, consistent structure, and efficient performance across static sites.
 
-- **HTML**: Включение общих компонентов через `file-include`.
-- **Sass и CSS**: Поддержка Dart Sass, автопрефиксы, сжатие и группировка медиа-запросов.
-- **JavaScript**: Сборка с Rollup, минификация, и Babel.
-- **Изображения и шрифты**: Конвертация в WebP и WOFF2.
-- **Лайв сервер**: Автообновление с `browser-sync`.
+Plow works by processing CSS with SASS and PostCSS, transpiling JavaScript with Babel, converting fonts and images to optimized formats, handling HTML template includes, and performing minification and bundling. The result is a streamlined build pipeline that produces clean, optimized, and deployable assets.

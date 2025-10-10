@@ -110,11 +110,8 @@ function serve() {
   watch( paths.images.watch, images );
 }
 
-const build = series( clean, fonts, images, parallel( html, styles, scripts ) );
+export const build = series( clean, fonts, images, parallel( html, styles, scripts ) );
 
-const dev = series( build, serve );
+const dev = series(build, serve);
 
-export {
-  dev as default,
-  build
-};
+export default dev;
