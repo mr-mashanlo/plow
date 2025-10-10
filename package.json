@@ -1,9 +1,10 @@
 {
-  "name": "builder",
+  "name": "plow",
+  "description": "HTML Build System",
   "version": "1.0.0",
+  "author": "Lee Mashanlo (https://github.com/mr-mashanlo)",
+  "license": "MIT",
   "type": "module",
-  "author": "Lee Mashanlo",
-  "license": "ISC",
   "browserslist": [
     "last 3 years"
   ],
