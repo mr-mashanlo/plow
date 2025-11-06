@@ -1,5 +1,17 @@
-# Plow – HTML Build System
+# Plot
 
-Plow is an HTML build system that compiles CSS and JavaScript, optimizes images and fonts, and assembles HTML templates into production-ready files. It ensures fast loading, consistent structure, and efficient performance across static sites.
+A lightweight Gulp-based build system for fast and efficient front-end development. Perfect for landing pages, CMS themes, and other static projects.
 
-Plow works by processing CSS with SASS and PostCSS, transpiling JavaScript with Babel, converting fonts and images to optimized formats, handling HTML template includes, and performing minification and bundling. The result is a streamlined build pipeline that produces clean, optimized, and deployable assets.
+## Features include:
+
+- SASS compilation
+- Babel transpilation
+- CSS and JS minification
+- Tree shaking
+- Font conversion to WOFF2
+- Image optimization and WebP conversion
+
+## Contacts:
+
+- Telegram — [@mr_mashanlo](https://t.me/mr_mashanlo)
+- LinkedIn — [@mr-mashanlo](https://linkedin.com/in/mr-mashanlo)
