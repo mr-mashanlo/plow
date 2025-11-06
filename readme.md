@@ -1,4 +1,4 @@
-# Plot
+# Plow
 
 A lightweight Gulp-based build system for fast and efficient front-end development. Perfect for landing pages, CMS themes, and other static projects.
 
