@@ -2,7 +2,7 @@
 
 A lightweight Gulp-based build system for fast and efficient front-end development. Perfect for landing pages, CMS themes, and other static projects.
 
-## Features include:
+## Features:
 
 - SASS compilation
 - Babel transpilation
@@ -13,5 +13,5 @@ A lightweight Gulp-based build system for fast and efficient front-end developme
 
 ## Contacts:
 
-- Telegram — [@mr_mashanlo](https://t.me/mr_mashanlo)
-- LinkedIn — [@mr-mashanlo](https://linkedin.com/in/mr-mashanlo)
+- Telegram - [@mr_mashanlo](https://t.me/mr_mashanlo)
+- LinkedIn - [@mr-mashanlo](https://linkedin.com/in/mr-mashanlo)
